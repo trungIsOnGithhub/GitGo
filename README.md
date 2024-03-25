@@ -1,3 +1,20 @@
+Take the below course and grasp the following points
+https://www.linkedin.com/learning/paths/develop-critical-thinking-decision-making-and-problem-solving-skills
+–What are the technic to clearly define a problem? How to use them?
+–What is the root cause and how to find the root cause?
+–What are the critical thinking tools mentioned in the course?
+–Common pitfalls when solving problem?
+–Extra (not in the course): mind-map, 6 thinking hats, 5W1H
+–Additional source of learning: 
+Mindware: Critical Thinking for the Information Age | Coursera
+Problem Solving Using Computational Thinking | Coursera
+Using Critical Observation on the Job | Pluralsight
+https://www.nguyenphivan.com/lnd-center
+•1 week to apply what you have learned into your project or life:
+–What are the problems you solved during the week?
+–How did you use the tools learned to define and solve your problem?
+•Presentation, Reflection and discussion
+
 [![progress-banner](https://backend.codecrafters.io/progress/git/4b1f9bbf-7e78-471a-a7c2-b418e651b284)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This is a starting point for Go solutions to the
